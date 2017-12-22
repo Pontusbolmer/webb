@@ -1,0 +1,22 @@
+body {
+margin: 0;
+padding: 0;
+background-image: url("baksida.jpg");
+background-size: cover;
+}
+
+
+header {
+width: 100%;
+height: 100px;
+background-color: black;
+
+}
+
+
+.hmeanu{
+    color:white;
+    text-align: center;
+    padding: 20px;
+    
+}
