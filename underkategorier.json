@@ -1,76 +1,64 @@
 [
     {
         "id": 1,
-        "stadname": "El Gitarr",
+        "name": "Läder väskor",
         "huvudkategori": 1
         
     },{
         "id": 2,
-        "stadname": "El Bas",
-        "huvudkategori": 2
+        "name": "Ryggsäckar",
+        "huvudkategori": 1
     },{
         "id": 3,
-        "stadname": "Tillbehör",
+        "name": "Tillbehör",
         "huvudkategori": 1
     },{
         "id": 4,
-        "stadname": "Piano",
-        "huvudkategori": 3
-    },{
-        "id": 5,
-        "stadname": "Synth",
-        "huvudkategori": 3
-    },{
-        "id": 6,
-        "stadname": "Klassisk Gitarr",
-        "huvudkategori": 1
-    },{
-        "id": 7,
-        "stadname": "Strängar",
-        "huvudkategori": 1
-    },{
-        "id": 8,
-        "stadname": "Akustisk Bas",
+        "name": "Kortarmat",
         "huvudkategori": 2
     },{
+        "id": 5,
+        "name": "Hoodies",
+        "huvudkategori": 2
+    },{
+        "id": 6,
+        "name": "Jeans",
+        "huvudkategori": 3
+    },{
+        "id": 7,
+        "name": "Manchester",
+        "huvudkategori": 3
+    },{
+        "id": 8,
+        "name": "Shorts",
+        "huvudkategori": 3
+    },{
         "id": 9,
-        "stadname": "Dragspel",
+        "name": "Badbyssor",
         "huvudkategori": 3
     },{
         "id": 10,
-        "stadname": "Förstärkare",
-        "huvudkategori": 1
+        "name": "Basker",
+        "huvudkategori": 4
     },{
         "id": 11,
-        "stadname": "USB Keyboard",
-        "huvudkategori": 3
+        "name": "Gammeldags",
+        "huvudkategori": 4
     },{
         "id": 12,
-        "stadname": "Strängar",
-        "huvudkategori": 2
+        "name": "Top hats",
+        "huvudkategori": 4
     },{
         "id": 13,
-        "stadname": "Förstärkare",
-        "huvudkategori": 2
+        "name": "Cowboy",
+        "huvudkategori": 4
     },{
         "id": 14,
-        "stadname": "Begagnat",
-        "huvudkategori": 1
+        "name": "Begagnat",
+        "huvudkategori": 3
     },{
         "id": 15,
-        "stadname": "Tillbehör",
-        "huvudkategori": 2
-    },{
-        "id": 15,
-        "stadname": "Trumsett",
-        "huvudkategori": 4
-    },{
-        "id": 15,
-        "stadname": "Digitaltrummor",
-        "huvudkategori": 4
-    },{
-        "id": 15,
-        "stadname": "Slagverk",
+        "name": "Tillbehör",
         "huvudkategori": 4
     }
 ]

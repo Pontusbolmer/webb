@@ -2,15 +2,34 @@
 [
     {
         "id": 1,
-        "countryname": "Gitarr"
-    },{
+        "name": "Väskor",
+        "align": "left"
+    }, {
         "id": 2,
-        "countryname": "Bas"
-    },{
+        "name": "Tröjor",
+        "align": "left"
+    }, {
         "id": 3,
-        "countryname": "Klaviatur"
-    },{
+        "name": "Byxor",
+        "align": "left"
+    }, {
         "id": 4,
-        "countryname": "Slagverk"
+        "name": "Kepsar",
+        "align": "left"
+    }, {
+        "id": 5,
+        "name": "Kontakta oss",
+        "align": "right",
+        "page": "contact"
+    },{
+        "id":6,
+        "name": "Information",
+        "align": "right",
+        "page": "info"
+    },{
+        "id": 7,
+        "name": "Kundkorg",
+        "align": "right",
+        "page": "cart"
     }
 ]

@@ -1,10 +1,92 @@
 [
     {
         "id": 1,
-        "prodName": "Epiphone Les Paul Standard",
-        "prodDesc": "Elgitarr med kropp av mahogny och AAA-flammigt lönntopp, mahognyhals med greppbräda av rosewood och två ProBucker pickups.",
+        "prodName": "Läder väska",
+        "prodDesc": "En läder väska av oxe.",
         "prodPrice": 6999,
+        "imgSrc": "example.png",
         "huvudKat": 1,
         "underKat": 1
+    },
+    {
+        "id": 2,
+        "prodName": "Ryggsäck",
+        "prodDesc": "Ryggsäck av mormors textil",
+        "prodPrice": 5000,
+        "imgSrc": "example.png",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 3,
+        "prodName": "Tshirt",
+        "prodDesc": "En vringad tshirt",
+        "prodPrice": 2555,
+        "imgSrc": "example.png",
+        "huvudKat": 2,
+        "underKat": 3
+    },
+    {
+        "id": 4,
+        "prodName": "Hoodie",
+        "prodDesc": "En Hooodie",
+        "prodPrice": 8777,
+        "imgSrc": "example.png",
+        "huvudKat": 2,
+        "underKat": 5
+    },
+    {
+        "id": 5,
+        "prodName": "Ett par jeans",
+        "prodDesc": "Ett par vanliga jeans",
+        "prodPrice": 555,
+        "imgSrc": "example.png",
+        "huvudKat": 3,
+        "underKat": 6
+    },
+    {
+        "id": 6,
+        "prodName": "Röda byxor",
+        "prodDesc": "Ett par röda manchester byxor",
+        "imgSrc": "example.png",
+        "prodPrice": 200,
+        "huvudKat": 3,
+        "underKat": 7
+    },
+    {
+        "id": 7,
+        "prodName": "Blå ryggsäck",
+        "prodDesc": "En blå ryggsäck",
+        "prodPrice": 5000,
+        "imgSrc": "example.png",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 8,
+        "prodName": "Grå ryggsäck",
+        "prodDesc": "Grå ryggsäck",
+        "prodPrice": 5000,
+        "imgSrc": "example.png",
+        "huvudKat": 1,
+        "underKat": 2
+    },
+    {
+        "id": 9,
+        "prodName": "Spännen",
+        "prodDesc": "Nya spännen",
+        "prodPrice": 5000,
+        "imgSrc": "example.png",
+        "huvudKat": 1,
+        "underKat": 3
+    },
+    {
+        "id": 10,
+        "prodName": "Inner väska",
+        "prodDesc": "En väska att ha i väskan",
+        "prodPrice": 5000,
+        "imgSrc": "example.png",
+        "huvudKat": 1,
+        "underKat": 3
     }
 ]
